@@ -1,0 +1,1 @@
+list out the question we want to answer, estimand, assumptions

@@ -1,0 +1,1 @@
+list out every judgment call I make along the way, and rationale (why I made it)

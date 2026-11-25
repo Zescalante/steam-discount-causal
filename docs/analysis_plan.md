@@ -1,0 +1,1 @@
+lay out the analysis plan before seeing any outcomes
