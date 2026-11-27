@@ -1,4 +1,2 @@
-# place filenames here to exlude from git
-
 data/raw/steam_dataset
 **/.DS_Store
